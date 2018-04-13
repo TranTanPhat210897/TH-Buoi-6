@@ -1,0 +1,16 @@
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Client\bin\Debug\Client.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Client\bin\Debug\Client.exe
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Client\bin\Debug\Client.pdb
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Client\obj\Debug\Client.exe
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Client\obj\Debug\Client.pdb
+F:\Study\LapTrinhMang\TH-Buoi-5\Server\Client\obj\Debug\Client.Client.resources
+F:\Study\LapTrinhMang\TH-Buoi-6\Server\Client\bin\Debug\Client.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-6\Server\Client\obj\Debug\Client.exe
+F:\Study\LapTrinhMang\TH-Buoi-6\Server\Client\obj\Debug\Client.pdb
+F:\Study\LapTrinhMang\TH-Buoi-6\Server\Client\bin\Debug\Client.exe
+F:\Study\LapTrinhMang\TH-Buoi-6\Server\Client\bin\Debug\Client.pdb
+F:\Study\LapTrinhMang\TH-Buoi-6\Server\Client\obj\Debug\Client.Client.resources
+F:\Study\LapTrinhMang\TH-Buoi-6\Server\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Study\LapTrinhMang\TH-Buoi-6\Server\Client\obj\Debug\Client.csproj.GenerateResource.Cache
